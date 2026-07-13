@@ -8,6 +8,7 @@
 - [Aditya](https://github.com/aditya02x)
 - [Dikshant Rawat](https://github.com/Dikshant-Rawat?tab=repositories)
 - [Ansh Singh](https://github.com/SinghAnsh07/)
+- [A Sairam Kumar Patro](https://github.com/itsairamkumar)
 - [Ahmet Karapınar] (https://github.com/BullLazy/)
 - [Zhou Longjie](https://github.com/longjie2003/)
 - [Pete Barb](https://github.com/DPB22)
